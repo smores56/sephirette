@@ -1,3 +1,7 @@
+> **Moved.** This board now lives in the [Clog family repo](https://github.com/smores56/clog), under [`sephirette/`](https://github.com/smores56/clog/tree/main/sephirette).
+
+---
+
 The Sephirette
 ==============
 
